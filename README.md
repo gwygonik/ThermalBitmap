@@ -28,3 +28,4 @@ This will let you work in absolute pixel values (0-383 across a row) as it will 
 
 Running this on an Arduino UNO hooked into a stock, unmodified Adafruit thermal printer should yield a print like this:
 
+![Example Print](https://cloud.githubusercontent.com/assets/2564583/21295734/6ab67c5e-c510-11e6-82d4-df954a28c6e1.png)
